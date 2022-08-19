@@ -1,5 +1,3 @@
-# Web08_Test
-
 📚 RULES CHUNG KHI SỬ DỤNG GIT
 Quy tắc đặt tên nhánh khi thi công chức năng:
 feature/[Mô tả ngắn gọn về chức năng]
